@@ -1,12 +1,7 @@
 ﻿using System;
 
-namespace polymorphism
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
+namespace polymorphism {
+    public class Program {
+        static void Main (string[] args) { }
     }
 }
